@@ -1,7 +1,6 @@
-## Hi there 👋
+# About Me
 
-<!--
-**amandavmonaco/amandavmonaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Amanda's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=amandavmonaco&show=prs_merged,prs_merged_percentage&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
