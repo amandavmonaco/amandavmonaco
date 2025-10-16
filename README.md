@@ -10,7 +10,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandavmonaco&hide_progress=true)
 
-![Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=amandavmonaco)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandavmonaco&layout=pie)](https://github.com/amandavmonaco/github-readme-stats-academic)
+
+![Pie Chart]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandavmonaco&layout=pie)](https://github.com/EthanJamesLew/github-readme-stats-academic))
 
   
 
